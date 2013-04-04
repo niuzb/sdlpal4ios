@@ -20,7 +20,7 @@
 
 #include "main.h"
 #include "getopt.h"
-#include <touchscreenkeyboard.h>
+#include "touchscreenkeyboard.h"
 #ifdef NDS
 #include "fat.h"
 #endif
